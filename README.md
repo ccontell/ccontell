@@ -2,6 +2,8 @@
 
 Eu sou Caio Contelli, Sou um Programador Front-and, Estou aprendendo criar projetos com:
 <br><br>
+<a href="https://www.linkedin.com/in/caio-contelli-811365222">Linkdin</a>
+<br><br>
 Linguagens:<br>
 <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="logo-html" />
 <img src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white" alt="logo-css" />
