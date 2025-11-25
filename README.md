@@ -2,12 +2,12 @@
 
 Eu sou Caio Contelli, Sou um Programador Front-and, Estou aprendendo criar projetos com:
 <br><br>
-<a href="https://www.linkedin.com/in/caio-contelli-811365222">Linkdin</a>
+<a href="https://www.linkedin.com/in/caio-contelli-811365222" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <br><br>
 Linguagens:<br>
-<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="logo-html" />
-<img src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white" alt="logo-css" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="logo-javascript" />
+<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
 Plataformas:<br>
 <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=whit" alt="logo-git" />
@@ -18,4 +18,3 @@ serviroes:<br>
 <br>
 ![](https://komarev.com/ghpvc/?username=ccontell)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccontell)](https://github.com/anuraghazra/github-readme-stats)
